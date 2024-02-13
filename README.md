@@ -14,7 +14,7 @@ Admettons que 1 PlantCoins = 100 plante récolte, sachant que pour récolté 1 p
 Vous allez me dire que c'est super long ! Mais patience, je vous ai dit qu'il y avait un classement ? 
 En effet, le classement vous permet de voir qui est le meilleur contributeur de notre planète. Il faut savoir aussi que notre plante ne peut pas être récolte automatiquement alors si vous faites la course contre votre ami et bien, il suffit que vous êtes le plus actif pour le dépasser et dépasser par la même occasion quelqu'un dans le monde.  
 
-# Forme de l'application
+# Premiere Image
 Bientôt...
 
 # Développeur
